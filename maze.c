@@ -11,7 +11,7 @@
 #define NUM_NEIGHBOURS 4
 
 #define PLAYER_DRAW_FREQ 2
-#define GOAL_DRAW_FREQ 8
+#define GOAL_DRAW_FREQ 6
 
 static Position_t neighbour_vectors[] = {
     {-1, 0}, {1, 0}, {0, 1}, {0, -1}, {0, 0}, {0, 0}

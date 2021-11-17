@@ -1,5 +1,8 @@
-# Amazeing Mazes
-ENCE260 Embedded Systems Ass and Beilang Fan (George).
+# A-maze-ing Mazes
+
+Authors Michael Alpenfels (mwa172) and Beilang Fan (bfa37).
+
+19 October 2021
 
 ## Setup and Compilation steps
 
